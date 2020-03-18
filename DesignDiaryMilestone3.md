@@ -20,5 +20,9 @@ various unfamiliar libraries.
 My LICEcap program stopped working so I was forced to use another GIF program and that also failed. I am
 unable to provide a GIF due to technical issues, sorry.
 
+** UPDATE: I fixed LICEcap by adding a missing 'licecap.ini' file to the LICEcap program folder. **
+![Milestone3Demo](https://github.com/rja45/Data-Analysis-Milestone/blob/master/Milestone3Demo.gif)
+
+
 
 
